@@ -19,7 +19,7 @@ public class Information {
 
     //学号
     @Id
-    private String stu_id;
+    private String student;
 
     //名字
     private String name;

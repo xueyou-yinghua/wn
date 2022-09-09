@@ -20,7 +20,7 @@ import javax.persistence.Table;
 public class Account{
     //学号
     @Id
-    private String stu_id;
+    private String student;
 
     //手机号
     private String phone;

@@ -18,5 +18,8 @@ public class User {
     private int id;
 
     //学号
-    private String stu_id;
+    private String student;
+
+    //是否被激活
+    private int active = 0;
 }
